@@ -418,14 +418,14 @@ if (reversed == null) { reversed = false; }
 p.nominalBounds = new cjs.Rectangle(-42.6,-43.1,1040.8,1055.1);
 // library properties:
 lib.properties = {
-	id: 'E6AD0BF21950294A86AE284CAF799E34',
+	id: '19B7BBCB4D5AA642B9B8F68677C25D8B',
 	width: 637,
 	height: 646,
 	fps: 30,
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/惡婆婆_HTML5 Canvas_atlas_1.png?1729191276476", id:"惡婆婆_HTML5 Canvas_atlas_1"}
+		{src:"images/惡婆婆_HTML5 Canvas_atlas_1.png?1729101863583", id:"惡婆婆_HTML5 Canvas_atlas_1"}
 	],
 	preloads: []
 };
@@ -463,7 +463,7 @@ an.bootstrapCallback=function(fnCallback) {
 };
 
 an.compositions = an.compositions || {};
-an.compositions['E6AD0BF21950294A86AE284CAF799E34'] = {
+an.compositions['19B7BBCB4D5AA642B9B8F68677C25D8B'] = {
 	getStage: function() { return exportRoot.stage; },
 	getLibrary: function() { return lib; },
 	getSpriteSheet: function() { return ss; },
